@@ -9,11 +9,11 @@ git clone https://github.com/aniru-dh21/Django-Calculator.git
 ```
 
 2. Check the availability of the python in your local system using following command:
-``` py
+``` 
 python --version
 ```
 
 3. Install Django in your local system using following command:
-``` python
+``` 
 pip install django
 ```
