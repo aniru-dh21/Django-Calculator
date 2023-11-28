@@ -17,3 +17,8 @@ python --version
 ``` 
 pip install django
 ```
+
+4. Change the current working directory to project directory and run the following command to run the django project:
+```
+python manage.py runserver
+```
