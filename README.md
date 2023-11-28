@@ -14,6 +14,6 @@ python --version
 ```
 
 3. Install Django in your local system using following command:
-``` py
+``` python
 pip install django
 ```
