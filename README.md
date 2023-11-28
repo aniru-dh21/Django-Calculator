@@ -7,3 +7,8 @@ This is basic implementation of calculator with operations of addition, subtract
 ``` bash
 git clone https://github.com/aniru-dh21/Django-Calculator.git
 ```
+
+2. Check the availability of the python in your local system using following command:
+``` py
+python --version
+```
